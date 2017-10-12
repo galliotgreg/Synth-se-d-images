@@ -1,5 +1,0 @@
-C:\Users\Hanna\Documents\Visual Studio 2008\Projects\SynthDImageTP1 - CSharp\SynthDImageTP1 - CSharp\bin\Debug\SynthDImageTP1 - CSharp.exe
-C:\Users\Hanna\Documents\Visual Studio 2008\Projects\SynthDImageTP1 - CSharp\SynthDImageTP1 - CSharp\bin\Debug\SynthDImageTP1 - CSharp.pdb
-C:\Users\Hanna\Documents\Visual Studio 2008\Projects\SynthDImageTP1 - CSharp\SynthDImageTP1 - CSharp\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Hanna\Documents\Visual Studio 2008\Projects\SynthDImageTP1 - CSharp\SynthDImageTP1 - CSharp\obj\Debug\SynthDImageTP1 - CSharp.exe
-C:\Users\Hanna\Documents\Visual Studio 2008\Projects\SynthDImageTP1 - CSharp\SynthDImageTP1 - CSharp\obj\Debug\SynthDImageTP1 - CSharp.pdb
