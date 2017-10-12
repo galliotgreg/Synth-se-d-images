@@ -1,0 +1,31 @@
+modèle de caméra
+	-zoom
+	-ouverture	- exposition
+				- flou de profondeur
+	
+	-temps		- exposition
+				- flou de mouvement
+				
+	- résolution du capteur
+	- abération 
+	- sensibilité du capteur (iso)
+	
+modèle de lampe
+	- couleur (longueur d'onde)
+	- intensité 
+	- direction / forme / profil
+	- polarisé
+
+objets
+	- solides
+		réflexion/transmission:
+			- diffuse 
+			- spéculaire (mirroir, très directionnel)
+		- absorption sur la longueur
+		- texture
+		- diffusion intensité
+	- liquide
+		- indice de réfraction
+	- gaz
+	
+la lumière se déplace en ligne droite

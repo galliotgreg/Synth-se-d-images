@@ -1,0 +1,28 @@
+Synthèse d'images
+
+for i = 0 .. H-1
+	for j=0 .. W-1
+		Rayon r(origine, direction)
+		bool inter = intersection(r,S)
+		if (inter) 
+			pixel [i,j] = blanc
+		else
+			pixel [i,j] = noir
+			
+1 Créer un rayon r :
+	Orig : (0,0,0)
+	Direction : 
+		x = j- W/2
+		y = i - H/2
+		z = - w/ 2 tan (alpha/2) (alpha l'angle d'ouverture de la caméra) tan(alpha/2) = (w/2)/ z
+
+	On prendra des rayon unitaires (diviser par norme)
+	
+2 Calculer l'intersection entre un rayon r et la sphère S:
+(D): P = C + t u (t>0), (D) demi droite(rayon), u vecteur directeur, C origine du rayon (foyer de la caméra)
+(S): ||P-O||² = R², (S) sphère, O centre de la sphère, R rayon de la sphère, P point appartenant à la sphère.
+
+|| C +t u -O ||² = R²	rappel :||a+b||² = ||a||²+2<a,b> + ||b||²
+||t u ||² + 2 <t u , C-O> + ||C-O||² - R² = 0
+t² + 2t <u, C-O> + ||C-O|| - R² = 0
+

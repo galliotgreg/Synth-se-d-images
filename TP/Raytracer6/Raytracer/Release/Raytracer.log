@@ -1,0 +1,9 @@
+﻿  sphere.cpp
+c:\users\etu2017\source\repos\raytracer6\raytracer\sphere.h(13): warning C4091: 'typedef ' : ignoré à gauche de 'sphere::propriete' quand aucune variable n'est déclarée
+  Génération de code en cours
+  3 of 444 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  Raytracer.vcxproj -> C:\Users\etu2017\source\repos\Raytracer6\Release\Raytracer.exe
+  Raytracer.vcxproj -> C:\Users\etu2017\source\repos\Raytracer6\Release\Raytracer.pdb (Full PDB)

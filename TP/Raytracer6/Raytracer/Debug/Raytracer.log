@@ -1,0 +1,18 @@
+﻿  scene.cpp
+c:\users\etu2017\source\repos\raytracer3\raytracer\scene.cpp(26): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\etu2017\source\repos\raytracer3\raytracer\scene.cpp(48): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\etu2017\source\repos\raytracer3\raytracer\scene.cpp(57): error C2065: 'sphereResultat' : identificateur non déclaré
+c:\users\etu2017\source\repos\raytracer3\raytracer\scene.cpp(60): error C2065: 'sphereResultat' : identificateur non déclaré
+c:\users\etu2017\source\repos\raytracer3\raytracer\scene.cpp(60): error C2227: la partie gauche de '->getIndex' doit pointer vers un type class/struct/union/générique
+  c:\users\etu2017\source\repos\raytracer3\raytracer\scene.cpp(60): note: le type est 'unknown-type'
+  Raytracer.cpp
+c:\users\etu2017\source\repos\raytracer3\raytracer\raytracer.cpp(108): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+c:\users\etu2017\source\repos\raytracer3\raytracer\raytracer.cpp(109): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+c:\users\etu2017\source\repos\raytracer3\raytracer\raytracer.cpp(110): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+c:\users\etu2017\source\repos\raytracer3\raytracer\raytracer.cpp(111): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+c:\users\etu2017\source\repos\raytracer3\raytracer\raytracer.cpp(112): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+c:\users\etu2017\source\repos\raytracer3\raytracer\raytracer.cpp(113): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+c:\users\etu2017\source\repos\raytracer3\raytracer\raytracer.cpp(114): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+c:\users\etu2017\source\repos\raytracer3\raytracer\raytracer.cpp(117): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+c:\users\etu2017\source\repos\raytracer3\raytracer\raytracer.cpp(143): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  Génération de code en cours...
